@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "blog-foundation",
+    "titleTemplate": "%s",
+    "description": "site for uncensored blog",
+    "siteUrl": "https://foundation.stackrole.com",
+    "image": "/assets/stackrole.png",
+    "twitterUsername": "@tech_uncensored"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
